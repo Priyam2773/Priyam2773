@@ -2,7 +2,7 @@
 <h3 align="center">🚀 AI & Machine Learning Enthusiast | B.Tech CSE (AI & ML) </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+Machine+Learning+Engineer;Python+Developer;Cloud+Computing+Learner;Open+Source+Enthusiast;Always+Learning+New+Technologies&center=true&width=700&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+Machine+Learning+Engineer;Cloud+Computing+Learner;Open+Source+Enthusiast;Always+Learning+New+Technologies&center=true&width=700&height=45">
 </p>
 
 ---
