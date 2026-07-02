@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyam Rai</h1>
-<h3 align="center">🚀 AI & Machine Learning Enthusiast | B.Tech CSE (AI & ML) | Python Developer</h3>
+<h3 align="center">🚀 AI & Machine Learning Enthusiast | B.Tech CSE (AI & ML) </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+Machine+Learning+Engineer;Python+Developer;Cloud+Computing+Learner;Open+Source+Enthusiast;Always+Learning+New+Technologies&center=true&width=700&height=45">
